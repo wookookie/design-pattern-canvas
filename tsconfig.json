@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    /* Projects */
+    "incremental": true,
+
+    /* Language and Environment */
+    "target": "ES2023",
+
+    /* Modules */
+    "module": "ES2022",
+
+    /* Emit */
+    "outDir": "./dist",
+    "removeComments": true,
+    "sourceMap": true,
+
+    /* Interop Constraints */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* Type Checking */
+    "strict": true,
+    "noImplicitOverride": true /* Ensure overriding members in derived classes are marked with an override modifier. */,
+
+    /* Completeness */
+    "skipLibCheck": true
+  }
+}
